@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="IoT.md">
+
+    <toc-element topic="starter.md"/>
+    <toc-element topic="IoT.md">
+        <toc-element topic="Reflexion.md">
+            <toc-element topic="02-06-September.md"/>
+            <toc-element topic="09-13-September.md"/>
+            <toc-element topic="16-20-September.md"/>
+            <toc-element topic="23-27-September.md"/>
+            <toc-element topic="30-September-04-Oktober.md"/>
+        </toc-element>
+        <toc-element topic="IoT-Cube.md">
+            <toc-element topic="Ultraschallsensor.md"/>
+            <toc-element topic="Bodenfeuchtesensor.md"/>
+            <toc-element topic="Gestiksensor.md"/>
+            <toc-element topic="Gassensor.md"/>
+            <toc-element topic="Servo.md"/>
+            <toc-element topic="Infrarot-Reflexionssensor.md"/>
+            <toc-element topic="Magnetschalter.md"/>
+            <toc-element topic="UV-Sensor.md"/>
+            <toc-element topic="Sonnenlichtsensor.md"/>
+        </toc-element>
+        <toc-element topic="Auftrag-2.md"/>
+    </toc-element>
+</instance-profile>
